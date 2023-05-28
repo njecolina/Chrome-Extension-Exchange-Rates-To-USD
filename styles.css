@@ -1,0 +1,28 @@
+body {
+  background-image: linear-gradient(to bottom, #a68fac, #77638b);
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+img {
+  max-width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#convert {
+  background-color: #b140ff;
+  color: whitesmoke;
+  border-radius: 10%;
+}
+
+#result {
+  color: whitesmoke;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+}
